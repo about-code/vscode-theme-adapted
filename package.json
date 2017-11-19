@@ -1,0 +1,29 @@
+{
+	"name": "vscode-theme-adapted",
+	"displayName": "Adapted",
+	"description": "A dark Adapta Theme",
+	"categories": [ "Themes" ],
+	"version": "1.0.0",
+	"publisher": "Andreas Martin",
+	"icon": "icon.png",
+	"repository": {
+		"url": "https://github.com/about-code/vscode-theme-adapted"
+	},
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"id": "Adapted-Dark-Monokai",
+				"label": "Adapted Monokai",
+                "uiTheme": "vs-dark",
+				"path": "./themes/adapted-dark-monokai.json"
+			},
+			{
+				"id": "Adapted-Dark-VSCode-Plus",
+				"label": "Adapted Dark+",
+                "uiTheme": "vs-dark",
+				"path": "./themes/adapted-dark-vscode-plus.json"
+			}
+		]
+	}
+}
