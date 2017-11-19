@@ -1,10 +1,10 @@
 {
 	"name": "vscode-theme-adapted",
 	"displayName": "Adapted",
-	"description": "A dark Adapta Theme",
+	"description": "A dark Adapta theme",
 	"categories": [ "Themes" ],
 	"version": "1.0.0",
-	"publisher": "Andreas Martin",
+	"publisher": "about-code",
 	"icon": "icon.png",
 	"repository": {
 		"url": "https://github.com/about-code/vscode-theme-adapted"

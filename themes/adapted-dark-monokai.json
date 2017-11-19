@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"include": "./adapta-dark.json",
+	"include": "./adapted-dark.json",
 	"tokenColors": [
 		{
 			"settings": {

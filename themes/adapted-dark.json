@@ -51,15 +51,15 @@
 		//"editorSuggestWidget.foreground": "#465963",
 		"editorSuggestWidget.border": "#75715e",
 		"editor.wordHighlightStrongBackground": "#6a6a9680",
+		// SEARCH RESULTS
+		"editor.findMatchBackground": "#008D8050",
+		"editor.findMatchHighlightBackground": "#008D8050",
+		"editor.findRangeHighlightBackground": "#008D8050",
 		// PEEK VIEW
 		"peekView.border": "#212B30",
 		"peekViewTitle.background": "#222D32",
 		"peekViewEditor.background": "#071A26",
 		"peekViewResult.background": "#071A26",
-		// SEARCH
-		"editor.findMatchBackground": "#008d7f48",
-		"editor.findMatchHighlightBackground": "#008d7f48",
-		// "editor.findRangeHighlightBackground": "",
 		"tab.inactiveBackground": "#222D32",
 		"tab.border": "#263238",
 		//"tab.activeBorder": "#00BCD4",
