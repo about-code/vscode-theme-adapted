@@ -9,7 +9,7 @@
 		// INPUTS
 		"input.background": "#2F3D44",
 		"input.foreground": "#C3CBCD",
-		"input.placeholderForeground": "#688A99",
+		"input.placeholderForeground": "#72acc7",
 		"inputOption.activeBorder": "#008D80",
 		"inputValidation.infoBackground": "#051336",
 		"inputValidation.infoBorder": "#008D80",
@@ -38,7 +38,7 @@
 		"activityBarBadge.background": "#FF3100",
 		// EDITOR
 		"editor.background": "#1B2326",
-		"editor.foreground": "#688A99",
+		"editor.foreground": "#72acc7",
 		"editorWidget.background": "#222D32",
 		"editor.selectionBackground": "#878b9180",
 		"editor.selectionHighlightBackground": "#575b6180",
@@ -63,27 +63,29 @@
 		"tab.inactiveBackground": "#222D32",
 		"tab.border": "#263238",
 		//"tab.activeBorder": "#00BCD4",
-		"tab.inactiveForeground": "#688A99",
-		"tab.unfocusedInactiveForeground": "#688A99",
+		"tab.inactiveForeground": "#72acc7",
+		"tab.unfocusedInactiveForeground": "#72acc7",
 		"editorGroupHeader.tabsBackground": "#222D32",
 		"editorGroup.border": "#212B30",
 		"editorGroup.dropBackground": "#212B3080",
 		"panel.border": "#212B30",
 		"panelTitle.activeForeground": "#f8f8f2",
 		"panelTitle.activeBorder": "#00BCD4",
-		"statusBar.background": "#222D32",
-		"statusBar.noFolderBackground": "#212B30",
 		// ACTIVITY BAR
 		"activityBar.background": "#222D32",
 		"activityBar.foreground": "#8BB8CC", // + icons
 		"activityBar.dropBackground": "#212B30",
-		"sideBar.foreground": "#688A99",
+		"debugToolBar.background": "#1e1f1c",
+		"sideBar.foreground": "#72acc7",
 		"sideBar.background": "#222D32",
 		"sideBarSectionHeader.background": "#212B30",
 		"sideBarSectionHeader.foreground": "#8BB8CC",
 		"titleBar.activeBackground": "#222D32",
+		// STATUS BAR
+		"statusBar.foreground": "#8BB8CC",
 		"statusBar.debuggingBackground": "#75715e",
-		"debugToolBar.background": "#1e1f1c",
+		"statusBar.background": "#222D32",
+		"statusBar.noFolderBackground": "#212B30",
 		// GIT
 		"diffEditor.insertedTextBackground": "#66852880",
 		"diffEditor.removedTextBackground": "#BC001380",
@@ -91,6 +93,6 @@
 		"gitDecoration.modifiedResourceForeground": "#8BB8CC",
 		"gitDecoration.deletedResourceForeground": "#FFA3A3",
 		"gitDecoration.conflictingResourceForeground":"#ff001e80",
-		"gitDecoration.ignoredResourceForeground": "#688A99"
+		"gitDecoration.ignoredResourceForeground": "#72acc7"
 	}
 }
