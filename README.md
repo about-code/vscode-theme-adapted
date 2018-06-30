@@ -5,7 +5,7 @@
 
 A [VSCode](https://github.com/microsoft/vscode) UI theme with Monokai or VSCode+ syntax theme integrating with [Adapta](https://github.com/adapta-project) desktop theme (Linux).
 
-The theme can be downloaded from the VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=about-code.vscode-theme-adapted). Otherwise VSIX files can be downloaded from the GitHub [releases](https://github.com/about-code/vscode-theme-adapted/releases) page. Alternatively Linux users can install the theme by downloading sources and extract them to `~/.vscode/extensions` or `~/.vscode-oss/extensions` (VSCode OSS).
+The theme can be downloaded from the VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=about-code.vscode-theme-adapted). Otherwise VSIX files can be downloaded from the GitHub [releases](https://github.com/about-code/vscode-theme-adapted/releases) page. Alternatively Linux users can install the theme by downloading the sources and extracting them to `~/.vscode/extensions` or `~/.vscode-oss/extensions` (VSCode OSS).
 
 ## Preview
 
