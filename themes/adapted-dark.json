@@ -11,12 +11,6 @@
 		"input.foreground": "#C3CBCD",
 		"input.placeholderForeground": "#72acc7",
 		"inputOption.activeBorder": "#008D80",
-		"inputValidation.infoBackground": "#051336",
-		"inputValidation.infoBorder": "#008D80",
-		"inputValidation.warningBackground": "#5b7e7a",
-		"inputValidation.warningBorder": "#5b7e7a",
-		"inputValidation.errorBackground": "#a22d44",
-		"inputValidation.errorBorder": "#ab395b",
 		"dropdown.background": "#212B30",
 		"button.background": "#009688",
 		// TREE AND LISTS
@@ -87,6 +81,19 @@
 		"statusBar.debuggingBackground": "#75715e",
 		"statusBar.background": "#222D32",
 		"statusBar.noFolderBackground": "#212B30",
+		// ERRORS
+		"editorError.foreground": "#ff3232e0",
+		"list.errorForeground": "#ff3232e0",
+		"inputValidation.errorBackground": "#a22d44",
+		"inputValidation.errorBorder": "#ab395b",
+		// WARNINGS
+		"list.warningForeground": "#FFCC00",
+		"editorWarning.foreground": "#FFCC00",
+		"inputValidation.warningBackground": "#5b7e7a",
+		"inputValidation.warningBorder": "#5b7e7a",
+		// INFOS
+		"inputValidation.infoBackground": "#051336",
+		"inputValidation.infoBorder": "#008D80",
 		// GIT
 		"diffEditor.insertedTextBackground": "#66852880",
 		"diffEditor.removedTextBackground": "#BC001380",
