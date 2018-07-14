@@ -33,7 +33,7 @@
 		"pickerGroup.foreground": "#009688",
 		"progressBar.background": "#00BCD4",
 		// BADGES
-		"badge.background": "#FF3100",
+		"badge.background": "#ee3000",
 		"badge.foreground": "#f8f8f2",
 		"activityBarBadge.background": "#FF3100",
 		// EDITOR
