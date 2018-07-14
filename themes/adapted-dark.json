@@ -47,6 +47,7 @@
 		"editorCursor.foreground": "#f8f8f0",
 		"editorWhitespace.foreground": "#464741",
 		"editorIndentGuide.background": "#464741",
+		"editorIndentGuide.activeBackground": "#A6A6A6",
 		"editorSuggestWidget.background": "#161C1F",
 		//"editorSuggestWidget.foreground": "#465963",
 		"editorSuggestWidget.border": "#75715e",
