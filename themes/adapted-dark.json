@@ -73,7 +73,7 @@
 		"debugToolBar.background": "#1e1f1c",
 		"sideBar.foreground": "#72acc7",
 		"sideBar.background": "#222D32",
-		"sideBarSectionHeader.background": "#212B30",
+		"sideBarSectionHeader.background": "#222D32",
 		"sideBarSectionHeader.foreground": "#8BB8CC",
 		"titleBar.activeBackground": "#222D32",
 		// STATUS BAR
@@ -82,17 +82,17 @@
 		"statusBar.background": "#222D32",
 		"statusBar.noFolderBackground": "#212B30",
 		// ERRORS
-		"editorError.foreground": "#ff3232e0",
-		"list.errorForeground": "#ff3232e0",
-		"inputValidation.errorBackground": "#a22d44",
-		"inputValidation.errorBorder": "#ab395b",
+		"editorError.foreground": "#CD3131",
+		"list.errorForeground": "#CD3131",
+		"inputValidation.errorBackground": "#680000",
+		"inputValidation.errorBorder": "#CD3131",
 		// WARNINGS
 		"list.warningForeground": "#FFCC00",
 		"editorWarning.foreground": "#FFCC00",
-		"inputValidation.warningBackground": "#5b7e7a",
-		"inputValidation.warningBorder": "#5b7e7a",
+		"inputValidation.warningBackground": "#7c6300",
+		"inputValidation.warningBorder": "#FFCC00",
 		// INFOS
-		"inputValidation.infoBackground": "#051336",
+		"inputValidation.infoBackground": "#006259",
 		"inputValidation.infoBorder": "#008D80",
 		// GIT
 		"diffEditor.insertedTextBackground": "#66852880",
