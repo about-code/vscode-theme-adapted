@@ -26,6 +26,9 @@
 		"scrollbar.shadow": "#00000000",
 		"pickerGroup.foreground": "#009688",
 		"progressBar.background": "#00BCD4",
+		"listFilterWidget.background": "#222D32",
+		"listFilterWidget.outline": "#A6E22E",
+		"listFilterWidget.noMatchesOutline": "#ff0000",
 		// BADGES
 		"badge.background": "#ee3000",
 		"badge.foreground": "#f8f8f2",
